@@ -1,0 +1,309 @@
+
+body{
+  background: url(img/triangles-1430105.png);
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+
+.modal-content img{
+  width: 100%;
+}
+
+
+.modal-content a{
+  width: 100%;
+}
+
+
+.preloader-wrapper{
+ margin-left: 50%;
+   margin-top:20%;
+}
+
+
+.carlos-oropeza{
+  width: 30%;
+  margin-left: 0;
+}
+  
+
+
+.sidenav-trigger i{
+  background: rgba(255,255,255,0.8);
+
+  border-radius: 50%;
+  padding: 10px
+}
+
+
+.show-principal{
+  width: 100%;
+}
+
+.show-contenido{
+width: 100%;
+
+background: url(https://i.blogs.es/fa5ebb/fo3/1366_2000.jpg);
+background-size: cover;
+
+height: 90vh;
+
+}
+
+.show-contenido img {
+  width: 100%;
+  margin-top: 0;
+
+}
+
+
+.show-contenido  h1 {
+ color: black;
+ text-align: center;
+
+  
+}
+
+.sidenav-trigger i:hover{
+  transition: all 500ms ease;
+  background: rgba(255,255,255,0.5);
+  color: black;
+}
+
+
+.show-contenido  p {
+ color: black;
+ text-align: center;}
+
+
+
+.btn-carlos{
+  background: rgba(0,0,0,0.6);
+  color: white;
+  padding: 10px;
+  border-radius: 10px
+}
+
+.btn-carlos{
+ 
+}
+
+.brand-logo{
+  font-family: Micky Dicky ;
+
+}
+
+.brand-logo img{
+
+height: 130px;
+position: relative;
+top: -35px;
+left: 15px
+}
+
+
+@media (max-width: 900px){
+  .btn-carlos{
+ margin: 170px;
+}
+}
+
+
+.nav-wrapper{
+  background:#359BFA;
+}
+
+
+
+
+.d-lex{
+  width: 100%;
+  display: flex;
+}
+
+
+
+.d-lex .row{
+  width: 800px;
+  
+}
+
+.d-flex{
+  width: 100%;
+  display: flex;
+}
+ 
+
+ .con-car{
+  width: 30%;
+  background: #ffff;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px
+ }
+
+  .con-car img{
+  width: 100%;
+  height: 210px
+ }
+  
+
+   .con-car a{
+    margin-bottom: 20px
+   }
+
+@media (max-width: 600px){
+ 
+.d-flex{
+  display: grid;
+}
+}
+
+
+@media (max-width: 600px){
+ 
+.con-car{
+  width: 90%
+}
+}
+
+.con-car h2{
+ font-size: 30px
+ }
+
+.div-text-center{
+  width: 100%;
+  text-align: center;
+}
+
+
+.video-gameshd{
+  width: 100%;
+
+}
+
+.page-footer{
+  margin-top: 50px
+}
+
+.ima-subida{
+  width: 100%;
+
+}
+
+
+.page-footer{
+  background: rgba(16,233,247,.3); 
+}
+
+
+.con-car p{
+  height: 100px;
+}
+
+.div-cont-contenedor{
+  width: 100%
+}
+
+.contenedor-text-contc{
+  width: 70%;
+  background: #FFFFFF;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 15%
+}
+
+
+/*-----------------------Contacto-sobrenosotros-----------------*/
+
+
+.contenedor-text-contc iframe{
+  width: 80%;
+}
+
+
+.contactos-info{
+  width: 100%;
+  margin-top: 90px;
+}
+
+.cente-info{
+  width: 80%;
+  
+  text-align: center;
+  margin-left: 8%;
+}
+
+.cente-info i{
+  background: #CBCBCB;
+  padding: 15px;
+  font-size: 35px;
+  border-radius: 10px;
+  margin: 10px
+}
+
+.cente-info .icon-facebook{
+  color: white;
+  transition: all 500ms ease;}
+
+.cente-info .icon-youtube{
+  color: white;
+  transition: all 500ms ease;}
+
+  .cente-info .icon-instagram{
+  color: white;
+  transition: all 500ms ease;}
+
+  .cente-info .icon-twitter{
+  color: white;
+  transition: all 500ms ease;}
+
+
+.cente-info .icon-youtube:hover{
+  color: red;
+  transition: all 500ms ease;
+background: white;
+ }
+
+  .cente-info .icon-instagram:hover{
+  color: #FF6529;
+  transition: all 500ms ease;
+background: white;
+ }
+
+  .cente-info .icon-twitter:hover{
+  color: #1BC6F1;
+  transition: all 500ms ease;
+background: white;
+
+}
+
+
+
+.cente-info .icon-facebook:hover{
+  color: blue;
+background: white;
+ transition: all 500ms ease;
+
+}
+
+/*-----------Gmail-----------------------*/
+
+.contenedor-gmail-info{
+  width: 100%;
+}
+
+.gmail-info{
+  width: 70%;
+  background: white;
+  text-align: center;
+  margin-left: 15%;
+  border-radius: 10px;
+}
+
+.gmail-info i{
+  color: #F55C38;
+}
+
